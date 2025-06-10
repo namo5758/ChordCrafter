@@ -2,7 +2,7 @@ from transformers import PreTrainedTokenizerFast, AutoModelForCausalLM
 import torch
 
 
-model_dir = "gpt2-chords-final"
+model_dir = "namo5758/ChordCrafter-Model"
 tokenizer = PreTrainedTokenizerFast.from_pretrained(model_dir)
 model     = AutoModelForCausalLM.from_pretrained(model_dir)
 
