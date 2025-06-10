@@ -1,5 +1,5 @@
 # ChordCrafter - AI Chord Generator
-Blog Post: 
+Blog Post: \n
 Model:
 # run model locally
 install dependencies
